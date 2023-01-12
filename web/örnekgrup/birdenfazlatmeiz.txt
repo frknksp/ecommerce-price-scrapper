@@ -1,0 +1,315 @@
+{
+	"huawei": {
+		"matebook d15": {
+			"amount": 3,
+			"from": [
+				[
+					"hepsiburadalist",
+					"https://www.hepsiburada.com//huawei-matebook-d15-intel-core-i7-1165g7-16gb-512gb-ssd-windows-11-home-15-6-tasinabilir-bilgisayar-p-HBCV00001GBB0E"
+				],
+				[
+					"trendyollist",
+					"https://www.trendyol.com/huawei/matebook-d15-intel-core-i5-1135g7-8gb-512gb-intel-iris-xe-graphics-15-6-windows-laptop-p-308008009?boutiqueId=614790&merchantId=968"
+				],
+				[
+					"vatanlist",
+					"https://www.vatanbilgisayar.com//huawei-matebook-d15-11-nesil-core-i5-1135g7-8gb-256gb-ssd-15-6-w11.html"
+				]
+			]
+		}
+	},
+	"asus": {
+		"d515da-br998": {
+			"amount": 2,
+			"from": [
+				"hepsiburadalist",
+				"https://www.hepsiburada.com//asus-d515da-br998-amd-ryzen-3-3250u-4-gb-256-gb-ssd-freedos-15-6-hd-tasinabilir-bilgisayar-p-HBCV00000VMIRI",
+				[
+					"n11list",
+					"https://www.n11.com/urun/asus-d515da-br998-ryzen-3-3250u-4-gb-256-gb-ssd-156-free-dos-hd-dizustu-bilgisayar-2186934?magaza=teknoryabilisim"
+				]
+			]
+		},
+		"x415ea-eb976": {
+			"amount": 2,
+			"from": [
+				"hepsiburadalist",
+				"https://www.hepsiburada.com//asus-x415ea-eb976-intel-core-i5-1135g7-8gb-256gb-ssd-freedos-14-fhd-tasinabilir-bilgisayar-p-HBCV00001QQMBY",
+				[
+					"vatanlist",
+					"https://www.vatanbilgisayar.com//asus-x415ea-11-nesil-core-i5-1135g7-8gb-256gb-ssd-14inc-freedos.html"
+				]
+			]
+		},
+		"ux8402za-m3073w": {
+			"amount": 2,
+			"from": [
+				"trendyollist",
+				"https://www.trendyol.com/asus/ux8402za-m3073w-intel-i5-12500h-16gb-ram-1tb-ssd-14-5-2-8k-oled-touch-screenpad-w11-notebook-p-356080116?boutiqueId=61&merchantId=107870",
+				[
+					"vatanlist",
+					"https://www.vatanbilgisayar.com//asus-zenbook-pro-14-duo-evo-12-nesil-core-i5-12500h-16gb-1tb-14-5inc-w11.html"
+				]
+			]
+		}
+	},
+	"lenovo": {
+		"ideapad gaming 3": {
+			"amount": 3,
+			"from": [
+				[
+					"hepsiburadalist",
+					"https://www.hepsiburada.com//lenovo-ideapad-gaming-3-amd-ryzen-7-5800h-16gb-512gb-ssd-rtx3050ti-freedos-15-6-fhd-tasinabilir-bilgisayar-82k200jwtx-p-HBCV00000BDM22"
+				],
+				[
+					"hepsiburadalist",
+					"https://www.hepsiburada.com//lenovo-ideapad-gaming-3-intel-core-i7-11390h-16gb-512gb-ssd-rtx-3050ti-freedos-15-6-fhd-tasinabilir-bilgisayar-82k100kdtx-p-HBCV00001VQ5V3"
+				],
+				[
+					"vatanlist",
+					"https://www.vatanbilgisayar.com//lenovo-ideapad-gaming-3-11-nesil-core-i5-11320h-8gb-512-ssd-15-6-gtx1650-4gb-w11.html"
+				]
+			]
+		},
+		"ideapad 3": {
+			"amount": 3,
+			"from": [
+				"hepsiburadalist",
+				"https://www.hepsiburada.com//lenovo-ideapad-3-amd-ryzen-7-5700u-8gb-512gb-ssd-freedos-15-6-fhd-tasinabilir-bilgisayar-82ku00vntx-p-HBCV000021REF9",
+				[
+					"hepsiburadalist",
+					"https://www.hepsiburada.com//lenovo-ideapad-3-amd-ryzen-3-3250u-8gb-256gb-ssd-freedos-15-6-fhd-tasinabilir-bilgisayar-82kr00cvtx-p-HBCV00002UVIY6"
+				],
+				[
+					"vatanlist",
+					"https://www.vatanbilgisayar.com//lenovo-ideapad-3-11-nesil-core-i3-1115g4-8gb-256gb-ssd-15-6inc-w11.html"
+				]
+			]
+		},
+		"thinkbook 15 g3 acl": {
+			"amount": 2,
+			"from": [
+				"hepsiburadalist",
+				"https://www.hepsiburada.com//lenovo-thinkbook-15-g3-acl-amd-ryzen-7-5700u-16-gb-512-gb-ssd-15-6-fhd-tasinabilir-bilgisayar-21a40036tx-p-HBCV000015KNH2",
+				[
+					"hepsiburadalist",
+					"https://www.hepsiburada.com//lenovo-thinkbook-15-g3-acl-amd-ryzen-7-5700u-8-gb-512-gb-ssd-freedos-15-6-fhd-tasinabilir-bilgisayar-21a40037tx-p-HBCV00001FQHVW"
+				]
+			]
+		},
+		"v14 g2 itl": {
+			"amount": 2,
+			"from": [
+				"hepsiburadalist",
+				"https://www.hepsiburada.com//lenovo-v14-g2-itl-intel-core-i5-1135g7-8gb-256gb-ssd-mx350-freedos-14-fhd-tasinabilir-bilgisayar-82ka00ectx-p-HBCV00001HFW6I",
+				[
+					"hepsiburadalist",
+					"https://www.hepsiburada.com//lenovo-v14-g2-itl-intel-core-i5-1135g7-8gb-256gb-ssd-14-full-hd-freedos-tasinabilir-bilgisayar-82ka0025tx-p-HBCV00000R3940"
+				]
+			]
+		},
+		"legion 5": {
+			"amount": 3,
+			"from": [
+				"hepsiburadalist",
+				"https://www.hepsiburada.com//lenovo-legion-5-intel-core-i7-11800h-16gb-512gb-ssd-rtx3060-freedos-17-3-fhd-tasinabilir-bilgisayar-82jm0013tx-p-HBCV00002LBY9Z",
+				[
+					"trendyollist",
+					"https://www.trendyol.com/lenovo/legion-5-intel-core-i7-11600h-16gb-1tb-ssd-6gb-rtx3060-dos-15-6-wqhd-165hz-gaming-laptop-82jh002ftx-p-357888272?boutiqueId=614790&merchantId=968"
+				],
+				[
+					"vatanlist",
+					"https://www.vatanbilgisayar.com//lenovo-legion-5-11-nesil-core-i7-11600h-16gb-1tb-ssd-15-6inc-rtx3060-6gb-w11.html"
+				]
+			]
+		},
+		"ideapad": {
+			"amount": 2,
+			"from": [
+				"hepsiburadalist",
+				"https://www.hepsiburada.com//lenovo-ideapad-intel-celeron-n4020-4gb-128gb-ssd-freedos-14-hd-tasinabilir-bilgisayar-81vu006stx-p-HBV00001658DA",
+				[
+					"hepsiburadalist",
+					"https://www.hepsiburada.com//lenovo-ideapad-i5-10210u-8-gb-256-gb-ssd-15-6-inc-fhd-w11h-gri-tasinabilir-bilgisayar-81wb01ejtx-p-HBCV00002QANIR"
+				]
+			]
+		},
+		"legion 5 pro": {
+			"amount": 2,
+			"from": [
+				"trendyollist",
+				"https://www.trendyol.com/lenovo/legion-5-pro-r7-5800h-16gb-ram-1tb-ssd-8gb-rtx3060-16-w11-82ju0149tx-gaming-laptop-gri-p-353726594?boutiqueId=61&merchantId=275331",
+				[
+					"vatanlist",
+					"https://www.vatanbilgisayar.com//lenovo-legion-5-core-i7-11800h-2-3ghz-16gb-512gb-ssd-16-rtx3060-6gb-w10.html"
+				]
+			]
+		}
+	},
+	"hp": {
+		"15-dw4010nt": {
+			"amount": 2,
+			"from": [
+				"hepsiburadalist",
+				"https://www.hepsiburada.com//hp-15-dw4010nt-intel-core-i5-1235u-8gb-512gb-ssd-freedos-15-6-tasinabilir-bilgisayar-6y7z9ea-p-HBCV00002VUPYB",
+				[
+					"trendyollist",
+					"https://www.trendyol.com/hp/15-dw4010nt-intel-core-i5-1235u-8gb-512-gb-ssd-freedos-15-6-6y7z9ea-p-363613987?boutiqueId=615105&merchantId=467452"
+				]
+			]
+		}
+	},
+	"acer": {
+		"swift 3 sf314-511 evo": {
+			"amount": 2,
+			"from": [
+				"hepsiburadalist",
+				"https://www.hepsiburada.com//acer-swift-3-sf314-511-evo-intel-core-i5-1135g7-8gb-512gb-ssd-14-fhd-windows-11-home-tasinabilir-bilgisayar-nx-abney-003-p-HBCV000019XOHE",
+				[
+					"trendyollist",
+					"https://www.trendyol.com/acer/swift-3-sf314-511-evo-i5-1135g7-8gb-512gb-ssd-14-w11-fhd-laptop-acer-turkiye-garantili-p-304198382?boutiqueId=614790&merchantId=968"
+				]
+			]
+		},
+		"nitro 5 an517-41": {
+			"amount": 2,
+			"from": [
+				"hepsiburadalist",
+				"https://www.hepsiburada.com//acer-nitro-5-an517-41-amd-ryzen-7-5800h-16gb-512gb-ssd-rtx3060-freedos-17-3-fhd-tasinabilir-bilgisayar-nh-qarey-001-p-HBCV00000RF4Z7",
+				[
+					"trendyollist",
+					"https://www.trendyol.com/acer/nitro-5-an517-41-amd-ryzen-7-5800h-32gb-1tb-sssd-rtx3080-360hz-17-3-fhd-freedos-nh-qbhey-001-p-142171886?boutiqueId=614790&merchantId=968"
+				]
+			]
+		},
+		"aspire 3 a315-23": {
+			"amount": 2,
+			"from": [
+				"hepsiburadalist",
+				"https://www.hepsiburada.com//acer-aspire-3-a315-23-amd-ryzen-5-3500u-8gb-256gb-ssd-linux-15-6-fhd-tasinabilir-bilgisayar-nx-hvtey-00b-p-HBV000019OVLQ",
+				[
+					"trendyollist",
+					"https://www.trendyol.com/acer/aspire-3-a315-23-amd-ryzen-5-3500u-8gb-256-gb-ssd-freedos-15-6-fhd-nx-hvtey-00b-p-79283898?boutiqueId=61&merchantId=624588"
+				]
+			]
+		}
+	},
+	"monster": {
+		"abra a5 v19.1": {
+			"amount": 2,
+			"from": [
+				"hepsiburadalist",
+				"https://www.hepsiburada.com//monster-abra-a5-v19-1-intel-core-i5-12500h-8gb-ram-500gb-ssd-4gb-gtx1650-freedos-15-6-fhd-144hz-oyun-bilgisayari-p-HBCV00002RJF15",
+				[
+					"trendyollist",
+					"https://www.trendyol.com/monster/abra-a5-v19-1-intel-core-i5-12500h-8-gb-ram-500gb-ssd-4gb-gtx1650-freedos-15-6-fhd-144hz-p-343039114?boutiqueId=613344&merchantId=105286"
+				]
+			]
+		},
+		"abra a5 v19.3.5": {
+			"amount": 2,
+			"from": [
+				"hepsiburadalist",
+				"https://www.hepsiburada.com//monster-abra-a5-v19-3-5-intel-core-i7-12700h-16gb-ram-500gb-ssd-4gb-rtx3050ti-freedos-15-6-fhd-144hz-oyun-bilgisayari-p-HBCV00002RJF1T",
+				[
+					"trendyollist",
+					"https://www.trendyol.com/monster/abra-a5-v19-3-5-intel-core-i7-12700h-16-gb-ram-500gb-ssd-4gb-rtx3050ti-freedos-15-6-fhd-144hz-p-343040291?boutiqueId=61&merchantId=105286"
+				]
+			]
+		},
+		"abra a5 v19.1.5": {
+			"amount": 2,
+			"from": [
+				"hepsiburadalist",
+				"https://www.hepsiburada.com//monster-abra-a5-v19-1-5-intel-core-i5-12500h-16gb-ram-500gb-ssd-4gb-gtx1650-freedos-15-6-fhd-144hz-oyun-bilgisayari-p-HBCV00002RJF19",
+				[
+					"trendyollist",
+					"https://www.trendyol.com/monster/abra-a5-v19-1-5-intel-core-i5-12500h-16-gb-ram-500gb-ssd-4gb-gtx1650-freedos-15-6-fhd-144hz-p-343039100?boutiqueId=613344&merchantId=105286"
+				]
+			]
+		},
+		"huma h4 v4.1.1": {
+			"amount": 2,
+			"from": [
+				"hepsiburadalist",
+				"https://www.hepsiburada.com//monster-huma-h4-v4-1-1-intel-core-i7-1165g7-32gb-ram-1tb-ssd-windows-11-14-1-fhd-tasinabilir-bilgisayar-p-HBCV000004YF4A",
+				[
+					"trendyollist",
+					"https://www.trendyol.com/monster/huma-h4-v4-1-1-intel-core-i7-1165g7-32gb-ram-1tb-ssd-windows-11-14-1-fhd-p-97410616?boutiqueId=613344&merchantId=105286"
+				]
+			]
+		},
+		"abra a5 v19.1.1": {
+			"amount": 2,
+			"from": [
+				"trendyollist",
+				"https://www.trendyol.com/monster/abra-a5-v19-1-1-intel-core-i5-12500h-8-gb-ram-500gb-ssd-4gb-gtx1650-windows-11-15-6-fhd-144hz-p-344041020?boutiqueId=613344&merchantId=105286",
+				[
+					"n11list",
+					"https://www.n11.com/urun/monster-abra-a5-v1911-i5-12500h-8-gb-500-gb-ssd-4-gb-gtx1650-144hz-156-w11h-dizustu-bilgisayar-18715689?magaza=monster"
+				]
+			]
+		}
+	},
+	"apple": {
+		"macbook air": {
+			"amount": 2,
+			"from": [
+				[
+					"hepsiburadalist",
+					"https://www.hepsiburada.com//apple-macbook-air-m1-cip-8gb-256gb-ssd-macos-13-qhd-tasinabilir-bilgisayar-uzay-grisi-mgn63tu-a-p-HBV0000130VND"
+				],
+				[
+					"trendyollist",
+					"https://www.trendyol.com/apple/macbook-air-m2-8c-cpu-8c-gpu-16gb-256-gb-ssd-13-6-uzay-grisi-p-363972274?boutiqueId=61&merchantId=624588"
+				]
+			]
+		},
+		"macbook": {
+			"amount": 2,
+			"from": [
+				"hepsiburadalist",
+				"https://www.hepsiburada.com//apple-macbook-m1-pro-cip-16gb-512gb-ssd-macos-14-qhd-tasinabilir-bilgisayar-gumus-mkgr3tu-a-p-HBCV00000U6XEP",
+				[
+					"trendyollist",
+					"https://www.trendyol.com/apple/macbook-m1-pro-10c-cpu-16c-gpu-16gb-512gb-ssd-macos-16-qhd-gumus-laptop-apple-turkiye-garantili-p-179259323?boutiqueId=61&merchantId=624588"
+				]
+			]
+		},
+		"macbook pro": {
+			"amount": 2,
+			"from": [
+				"trendyollist",
+				"https://www.trendyol.com/apple/macbook-pro-14-m1-pro-8c-cpu-14c-gpu-16-gb-512gb-ssd-gumus-p-179224615?boutiqueId=613344&merchantId=107870",
+				[
+					"vatanlist",
+					"https://www.vatanbilgisayar.com//macbook-pro-touch-bar-mydc2tu-a-m1-8gb-512gbssd-retina-13-int-space-grey.html"
+				]
+			]
+		}
+	},
+	"hometech": {
+		"alfa 590s": {
+			"amount": 2,
+			"from": [
+				"hepsiburadalist",
+				"https://www.hepsiburada.com//hometech-alfa-590s-intel-core-i5-5257u-8gb-256-gb-ssd-windows-10-home-15-6-fhd-tasinabilir-bilgisayar-p-HBV00001779GH",
+				[
+					"n11list",
+					"https://www.n11.com/urun/hometech-alfa-590s-i5-5257-8-gb-ram-256-gb-ssd-156-w10h-fhd-dizustu-bilgisayar-1712832?magaza=teknoryabilisim"
+				]
+			]
+		},
+		"alfa 430c": {
+			"amount": 2,
+			"from": [
+				"trendyollist",
+				"https://www.trendyol.com/hometech/alfa-430c-celeron-n4020-4gb-128gb-emmc-14inc-w10-p-358056693?boutiqueId=61&merchantId=624588",
+				[
+					"vatanlist",
+					"https://www.vatanbilgisayar.com//hometech-alfa-430c-celeron-n4020-4gb-128gb-emmc-14inc-w10.html"
+				]
+			]
+		}
+	}
+}
