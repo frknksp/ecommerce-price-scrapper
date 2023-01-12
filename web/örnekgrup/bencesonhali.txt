@@ -1,0 +1,509 @@
+{
+	"huawei": {
+		"matebook d15": {
+			"amount": 3,
+			"ozellikler": {
+				"isletim_sistemi": "Windows 11 Home",
+				"islemci": "Intel Core i7",
+				"islemci_modeli": "1165G7",
+				"islemci_hizi": "2,8 GHz",
+				"ram": "16 GB",
+				"disk_boyutu": "512 GB",
+				"disk_turu": "SSD",
+				"ekran_boyutu": "15,6 inç",
+				"ekran_karti": "Intel Iris Xe Graphics",
+				"puan": "4,8",
+				"site": "Hepsiburada",
+				"link": "https://www.hepsiburada.com//huawei-matebook-d15-intel-core-i7-1165g7-16gb-512gb-ssd-windows-11-home-15-6-tasinabilir-bilgisayar-p-HBCV00001GBB0E"
+			},
+			"from": [
+				{
+					"website": "list",
+					"link": "https://www.hepsiburada.com//huawei-matebook-d15-intel-core-i7-1165g7-16gb-512gb-ssd-windows-11-home-15-6-tasinabilir-bilgisayar-p-HBCV00001GBB0E",
+					"fiyat": "10.998,99 TL",
+					"fotolink": "https://productimages.hepsiburada.net/s/176/550/110000140392348.jpg"
+				},
+				{
+					"website": "trendyol",
+					"link": "https://www.trendyol.com/huawei/matebook-d15-intel-core-i5-1135g7-8gb-512gb-intel-iris-xe-graphics-15-6-windows-laptop-p-308008009?boutiqueId=614790&merchantId=968",
+					"fiyat": "12.399 TL",
+					"fotolink": "https://cdn.dsmcdn.com/mnresize/128/192/ty387/product/media/images/20220407/10/85306336/439760143/1/1_org_zoom.jpg"
+				},
+				{
+					"website": "vatan",
+					"link": "https://www.vatanbilgisayar.com//huawei-matebook-d15-11-nesil-core-i5-1135g7-8gb-256gb-ssd-15-6-w11.html",
+					"fiyat": "14.999",
+					"fotolink": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/huawei/thumb/132694-1_large.jpg"
+				}
+			]
+		}
+	},
+	"asus": {
+		"d515da-br998": {
+			"amount": 2,
+			"from": [
+				{
+					"website": "hepsiburada",
+					"link": "https://www.hepsiburada.com//asus-d515da-br998-amd-ryzen-3-3250u-4-gb-256-gb-ssd-freedos-15-6-hd-tasinabilir-bilgisayar-p-HBCV00000VMIRI",
+					"fiyat": "6.689,00 TL",
+					"fotolink": "https://productimages.hepsiburada.net/s/133/550/110000084375834.jpg"
+				},
+				{
+					"website": "n11",
+					"link": "https://www.n11.com/urun/asus-d515da-br998-ryzen-3-3250u-4-gb-256-gb-ssd-156-free-dos-hd-dizustu-bilgisayar-2186934?magaza=teknoryabilisim",
+					"fiyat": "6.689,00 TL",
+					"fotolink": "https://n11scdn.akamaized.net/a1/602_857/03/21/32/46/IMG-1688092548861371021.jpg"
+				}
+			]
+		},
+		"x415ea-eb976": {
+			"amount": 2,
+			"from": [
+				{
+					"website": "hepsiburada",
+					"link": "https://www.hepsiburada.com//asus-x415ea-eb976-intel-core-i5-1135g7-8gb-256gb-ssd-freedos-14-fhd-tasinabilir-bilgisayar-p-HBCV00001QQMBY",
+					"fiyat": "13.749,00 TL",
+					"fotolink": "https://productimages.hepsiburada.net/s/186/550/110000151334233.jpg"
+				},
+				{
+					"website": "vatan",
+					"link": "https://www.vatanbilgisayar.com//asus-x415ea-11-nesil-core-i5-1135g7-8gb-256gb-ssd-14inc-freedos.html",
+					"fiyat": "12.299",
+					"fotolink": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/asus/thumb/1-133409_large.jpg"
+				}
+			]
+		},
+		"ux8402za-m3073w": {
+			"amount": 2,
+			"from": [
+				{
+					"website": "trendyol",
+					"link": "https://www.trendyol.com/asus/ux8402za-m3073w-intel-i5-12500h-16gb-ram-1tb-ssd-14-5-2-8k-oled-touch-screenpad-w11-notebook-p-356080116?boutiqueId=61&merchantId=107870",
+					"fiyat": "53.999 TL",
+					"fotolink": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty537/product/media/images/20220921/13/177964361/574639093/1/1_org_zoom.jpg"
+				},
+				{
+					"website": "vatan",
+					"link": "https://www.vatanbilgisayar.com//asus-zenbook-pro-14-duo-evo-12-nesil-core-i5-12500h-16gb-1tb-14-5inc-w11.html",
+					"fiyat": "53.999",
+					"fotolink": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/asus/thumb/135691-1_large.jpg"
+				}
+			]
+		}
+	},
+	"lenovo": {
+		"ideapad gaming 3": {
+			"amount": 3,
+			"ozellikler": {
+				"isletim_sistemi": "Yok (Free Dos)",
+				"islemci": "AMD Ryzen 7",
+				"islemci_modeli": "5800H",
+				"islemci_hizi": "3,2 GHz",
+				"ram": "16 GB",
+				"disk_boyutu": "512 GB",
+				"disk_turu": "SSD",
+				"ekran_boyutu": "15,6 inç",
+				"ekran_karti": "Nvidia GeForce RTX 3050 Ti",
+				"puan": "4,4",
+				"site": "Hepsiburada",
+				"link": "https://www.hepsiburada.com//lenovo-ideapad-gaming-3-amd-ryzen-7-5800h-16gb-512gb-ssd-rtx3050ti-freedos-15-6-fhd-tasinabilir-bilgisayar-82k200jwtx-p-HBCV00000BDM22"
+			},
+			"from": [
+				{
+					"website": "list",
+					"link": "https://www.hepsiburada.com//lenovo-ideapad-gaming-3-amd-ryzen-7-5800h-16gb-512gb-ssd-rtx3050ti-freedos-15-6-fhd-tasinabilir-bilgisayar-82k200jwtx-p-HBCV00000BDM22",
+					"fiyat": "19.879,00 TL",
+					"fotolink": "https://productimages.hepsiburada.net/s/236/550/110000219767419.jpg"
+				},
+				{
+					"website": "hepsiburada",
+					"link": "https://www.hepsiburada.com//lenovo-ideapad-gaming-3-intel-core-i7-11390h-16gb-512gb-ssd-rtx-3050ti-freedos-15-6-fhd-tasinabilir-bilgisayar-82k100kdtx-p-HBCV00001VQ5V3",
+					"fiyat": "19.998,99 TL",
+					"fotolink": "https://productimages.hepsiburada.net/s/195/550/110000163980973.jpg"
+				},
+				{
+					"website": "vatan",
+					"link": "https://www.vatanbilgisayar.com//lenovo-ideapad-gaming-3-11-nesil-core-i5-11320h-8gb-512-ssd-15-6-gtx1650-4gb-w11.html",
+					"fiyat": "19.999",
+					"fotolink": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/lenovo/thumb/untitled-1_large.jpg"
+				}
+			]
+		},
+		"ideapad 3": {
+			"amount": 3,
+			"from": [
+				{
+					"website": "hepsiburada",
+					"link": "https://www.hepsiburada.com//lenovo-ideapad-3-amd-ryzen-7-5700u-8gb-512gb-ssd-freedos-15-6-fhd-tasinabilir-bilgisayar-82ku00vntx-p-HBCV000021REF9",
+					"fiyat": "10.998,99 TL",
+					"fotolink": "https://productimages.hepsiburada.net/s/258/550/110000241569662.jpg"
+				},
+				{
+					"website": "hepsiburada",
+					"link": "https://www.hepsiburada.com//lenovo-ideapad-3-amd-ryzen-3-3250u-8gb-256gb-ssd-freedos-15-6-fhd-tasinabilir-bilgisayar-82kr00cvtx-p-HBCV00002UVIY6",
+					"fiyat": "8.999,00 TL",
+					"fotolink": "https://productimages.hepsiburada.net/s/278/550/110000264486626.jpg"
+				},
+				{
+					"website": "vatan",
+					"link": "https://www.vatanbilgisayar.com//lenovo-ideapad-3-11-nesil-core-i3-1115g4-8gb-256gb-ssd-15-6inc-w11.html",
+					"fiyat": "12.999",
+					"fotolink": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/lenovo/thumb/135417-1_large.jpg"
+				}
+			]
+		},
+		"thinkbook 15 g3 acl": {
+			"amount": 2,
+			"from": [
+				{
+					"website": "hepsiburada",
+					"link": "https://www.hepsiburada.com//lenovo-thinkbook-15-g3-acl-amd-ryzen-7-5700u-16-gb-512-gb-ssd-15-6-fhd-tasinabilir-bilgisayar-21a40036tx-p-HBCV000015KNH2",
+					"fiyat": "13.299,30 TL",
+					"fotolink": "https://productimages.hepsiburada.net/s/218/550/110000196422021.jpg"
+				},
+				{
+					"website": "hepsiburada",
+					"link": "https://www.hepsiburada.com//lenovo-thinkbook-15-g3-acl-amd-ryzen-7-5700u-8-gb-512-gb-ssd-freedos-15-6-fhd-tasinabilir-bilgisayar-21a40037tx-p-HBCV00001FQHVW",
+					"fiyat": "12.499,00 TL",
+					"fotolink": "https://productimages.hepsiburada.net/s/175/550/110000139020948.jpg"
+				}
+			]
+		},
+		"v14 g2 itl": {
+			"amount": 2,
+			"from": [
+				{
+					"website": "hepsiburada",
+					"link": "https://www.hepsiburada.com//lenovo-v14-g2-itl-intel-core-i5-1135g7-8gb-256gb-ssd-mx350-freedos-14-fhd-tasinabilir-bilgisayar-82ka00ectx-p-HBCV00001HFW6I",
+					"fiyat": "10.599,00 TL",
+					"fotolink": "https://productimages.hepsiburada.net/s/265/550/110000249655771.jpg"
+				},
+				{
+					"website": "hepsiburada",
+					"link": "https://www.hepsiburada.com//lenovo-v14-g2-itl-intel-core-i5-1135g7-8gb-256gb-ssd-14-full-hd-freedos-tasinabilir-bilgisayar-82ka0025tx-p-HBCV00000R3940",
+					"fiyat": "10.199,00 TL",
+					"fotolink": "https://productimages.hepsiburada.net/s/280/550/110000266972576.jpg"
+				}
+			]
+		},
+		"legion 5": {
+			"amount": 3,
+			"from": [
+				{
+					"website": "hepsiburada",
+					"link": "https://www.hepsiburada.com//lenovo-legion-5-intel-core-i7-11800h-16gb-512gb-ssd-rtx3060-freedos-17-3-fhd-tasinabilir-bilgisayar-82jm0013tx-p-HBCV00002LBY9Z",
+					"fiyat": "32.372,53 TL",
+					"fotolink": "https://productimages.hepsiburada.net/s/253/550/110000235423868.jpg"
+				},
+				{
+					"website": "trendyol",
+					"link": "https://www.trendyol.com/lenovo/legion-5-intel-core-i7-11600h-16gb-1tb-ssd-6gb-rtx3060-dos-15-6-wqhd-165hz-gaming-laptop-82jh002ftx-p-357888272?boutiqueId=614790&merchantId=968",
+					"fiyat": "36.999,49 TL",
+					"fotolink": "https://cdn.dsmcdn.com/mnresize/128/192/ty559/product/media/images/20221012/18/191956041/579139623/2/2_org_zoom.jpg"
+				},
+				{
+					"website": "vatan",
+					"link": "https://www.vatanbilgisayar.com//lenovo-legion-5-11-nesil-core-i7-11600h-16gb-1tb-ssd-15-6inc-rtx3060-6gb-w11.html",
+					"fiyat": "39.999",
+					"fotolink": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/lenovo/thumb/134370-1_large.jpg"
+				}
+			]
+		},
+		"ideapad": {
+			"amount": 2,
+			"from": [
+				{
+					"website": "hepsiburada",
+					"link": "https://www.hepsiburada.com//lenovo-ideapad-intel-celeron-n4020-4gb-128gb-ssd-freedos-14-hd-tasinabilir-bilgisayar-81vu006stx-p-HBV00001658DA",
+					"fiyat": "5.899,00 TL",
+					"fotolink": "https://productimages.hepsiburada.net/s/56/550/11255027236914.jpg"
+				},
+				{
+					"website": "hepsiburada",
+					"link": "https://www.hepsiburada.com//lenovo-ideapad-i5-10210u-8-gb-256-gb-ssd-15-6-inc-fhd-w11h-gri-tasinabilir-bilgisayar-81wb01ejtx-p-HBCV00002QANIR",
+					"fiyat": "10.999,00 TL",
+					"fotolink": "https://productimages.hepsiburada.net/s/264/550/110000248436317.jpg"
+				}
+			]
+		},
+		"legion 5 pro": {
+			"amount": 2,
+			"from": [
+				{
+					"website": "trendyol",
+					"link": "https://www.trendyol.com/lenovo/legion-5-pro-r7-5800h-16gb-ram-1tb-ssd-8gb-rtx3060-16-w11-82ju0149tx-gaming-laptop-gri-p-353726594?boutiqueId=61&merchantId=275331",
+					"fiyat": "40.000 TL",
+					"fotolink": "https://cdn.dsmcdn.com/mnresize/128/192/ty531/product/media/images/20220914/13/175146975/569106121/1/1_org_zoom.jpg"
+				},
+				{
+					"website": "vatan",
+					"link": "https://www.vatanbilgisayar.com//lenovo-legion-5-core-i7-11800h-2-3ghz-16gb-512gb-ssd-16-rtx3060-6gb-w10.html",
+					"fiyat": "37.999",
+					"fotolink": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/lenovo/thumb/131885-0-1_large.jpg"
+				}
+			]
+		}
+	},
+	"hp": {
+		"15-dw4010nt": {
+			"amount": 2,
+			"from": [
+				{
+					"website": "hepsiburada",
+					"link": "https://www.hepsiburada.com//hp-15-dw4010nt-intel-core-i5-1235u-8gb-512gb-ssd-freedos-15-6-tasinabilir-bilgisayar-6y7z9ea-p-HBCV00002VUPYB",
+					"fiyat": "12.142,85 TL",
+					"fotolink": "https://productimages.hepsiburada.net/s/280/550/110000266972107.jpg"
+				},
+				{
+					"website": "trendyol",
+					"link": "https://www.trendyol.com/hp/15-dw4010nt-intel-core-i5-1235u-8gb-512-gb-ssd-freedos-15-6-6y7z9ea-p-363613987?boutiqueId=615105&merchantId=467452",
+					"fiyat": "11.899 TL",
+					"fotolink": "https://cdn.dsmcdn.com/mnresize/128/192/ty553/product/media/images/20221005/12/186410812/589622759/1/1_org_zoom.jpg"
+				}
+			]
+		}
+	},
+	"acer": {
+		"swift 3 sf314-511 evo": {
+			"amount": 2,
+			"from": [
+				{
+					"website": "hepsiburada",
+					"link": "https://www.hepsiburada.com//acer-swift-3-sf314-511-evo-intel-core-i5-1135g7-8gb-512gb-ssd-14-fhd-windows-11-home-tasinabilir-bilgisayar-nx-abney-003-p-HBCV000019XOHE",
+					"fiyat": "11.599,00 TL",
+					"fotolink": "https://productimages.hepsiburada.net/s/164/550/110000124235014.jpg"
+				},
+				{
+					"website": "trendyol",
+					"link": "https://www.trendyol.com/acer/swift-3-sf314-511-evo-i5-1135g7-8gb-512gb-ssd-14-w11-fhd-laptop-acer-turkiye-garantili-p-304198382?boutiqueId=614790&merchantId=968",
+					"fiyat": "16.999 TL",
+					"fotolink": "https://cdn.dsmcdn.com/mnresize/128/192/ty484/product/media/images/20220719/13/145591574/485878214/2/2_org_zoom.jpg"
+				}
+			]
+		},
+		"nitro 5 an517-41": {
+			"amount": 2,
+			"from": [
+				{
+					"website": "hepsiburada",
+					"link": "https://www.hepsiburada.com//acer-nitro-5-an517-41-amd-ryzen-7-5800h-16gb-512gb-ssd-rtx3060-freedos-17-3-fhd-tasinabilir-bilgisayar-nh-qarey-001-p-HBCV00000RF4Z7",
+					"fiyat": "26.199,00 TL",
+					"fotolink": "https://productimages.hepsiburada.net/s/125/550/110000075627365.jpg"
+				},
+				{
+					"website": "trendyol",
+					"link": "https://www.trendyol.com/acer/nitro-5-an517-41-amd-ryzen-7-5800h-32gb-1tb-sssd-rtx3080-360hz-17-3-fhd-freedos-nh-qbhey-001-p-142171886?boutiqueId=614790&merchantId=968",
+					"fiyat": "42.998,99 TL",
+					"fotolink": "https://cdn.dsmcdn.com/mnresize/128/192/ty172/product/media/images/20210911/14/129043071/240716027/0/0_org_zoom.jpg"
+				}
+			]
+		},
+		"aspire 3 a315-23": {
+			"amount": 2,
+			"from": [
+				{
+					"website": "hepsiburada",
+					"link": "https://www.hepsiburada.com//acer-aspire-3-a315-23-amd-ryzen-5-3500u-8gb-256gb-ssd-linux-15-6-fhd-tasinabilir-bilgisayar-nx-hvtey-00b-p-HBV000019OVLQ",
+					"fiyat": "7.799,00 TL",
+					"fotolink": "https://productimages.hepsiburada.net/s/261/550/110000244605089.jpg"
+				},
+				{
+					"website": "trendyol",
+					"link": "https://www.trendyol.com/acer/aspire-3-a315-23-amd-ryzen-5-3500u-8gb-256-gb-ssd-freedos-15-6-fhd-nx-hvtey-00b-p-79283898?boutiqueId=61&merchantId=624588",
+					"fiyat": "7.299 TL",
+					"fotolink": "https://cdn.dsmcdn.com/mnresize/128/192/ty514/product/media/images/20220822/12/163802925/134492302/1/1_org_zoom.jpg"
+				}
+			]
+		}
+	},
+	"monster": {
+		"abra a5 v19.1": {
+			"amount": 2,
+			"from": [
+				{
+					"website": "hepsiburada",
+					"link": "https://www.hepsiburada.com//monster-abra-a5-v19-1-intel-core-i5-12500h-8gb-ram-500gb-ssd-4gb-gtx1650-freedos-15-6-fhd-144hz-oyun-bilgisayari-p-HBCV00002RJF15",
+					"fiyat": "17.149,02 TL",
+					"fotolink": "https://productimages.hepsiburada.net/s/267/550/110000252779299.jpg"
+				},
+				{
+					"website": "trendyol",
+					"link": "https://www.trendyol.com/monster/abra-a5-v19-1-intel-core-i5-12500h-8-gb-ram-500gb-ssd-4gb-gtx1650-freedos-15-6-fhd-144hz-p-343039114?boutiqueId=613344&merchantId=105286",
+					"fiyat": "17.949 TL",
+					"fotolink": "https://cdn.dsmcdn.com/mnresize/128/192/ty510/product/media/images/20220819/12/162759851/547831375/1/1_org_zoom.jpg"
+				}
+			]
+		},
+		"abra a5 v19.3.5": {
+			"amount": 2,
+			"from": [
+				{
+					"website": "hepsiburada",
+					"link": "https://www.hepsiburada.com//monster-abra-a5-v19-3-5-intel-core-i7-12700h-16gb-ram-500gb-ssd-4gb-rtx3050ti-freedos-15-6-fhd-144hz-oyun-bilgisayari-p-HBCV00002RJF1T",
+					"fiyat": "22.049,02 TL",
+					"fotolink": "https://productimages.hepsiburada.net/s/267/550/110000252781309.jpg"
+				},
+				{
+					"website": "trendyol",
+					"link": "https://www.trendyol.com/monster/abra-a5-v19-3-5-intel-core-i7-12700h-16-gb-ram-500gb-ssd-4gb-rtx3050ti-freedos-15-6-fhd-144hz-p-343040291?boutiqueId=61&merchantId=105286",
+					"fiyat": "22.849 TL",
+					"fotolink": "https://cdn.dsmcdn.com/mnresize/128/192/ty511/product/media/images/20220819/12/162760854/547832959/1/1_org_zoom.jpg"
+				}
+			]
+		},
+		"abra a5 v19.1.5": {
+			"amount": 2,
+			"from": [
+				{
+					"website": "hepsiburada",
+					"link": "https://www.hepsiburada.com//monster-abra-a5-v19-1-5-intel-core-i5-12500h-16gb-ram-500gb-ssd-4gb-gtx1650-freedos-15-6-fhd-144hz-oyun-bilgisayari-p-HBCV00002RJF19",
+					"fiyat": "19.109,02 TL",
+					"fotolink": "https://productimages.hepsiburada.net/s/267/550/110000252781209.jpg"
+				},
+				{
+					"website": "trendyol",
+					"link": "https://www.trendyol.com/monster/abra-a5-v19-1-5-intel-core-i5-12500h-16-gb-ram-500gb-ssd-4gb-gtx1650-freedos-15-6-fhd-144hz-p-343039100?boutiqueId=613344&merchantId=105286",
+					"fiyat": "18.119 TL",
+					"fotolink": "https://cdn.dsmcdn.com/mnresize/128/192/ty512/product/media/images/20220819/12/162759835/547831361/1/1_org_zoom.jpg"
+				}
+			]
+		},
+		"huma h4 v4.1.1": {
+			"amount": 2,
+			"from": [
+				{
+					"website": "hepsiburada",
+					"link": "https://www.hepsiburada.com//monster-huma-h4-v4-1-1-intel-core-i7-1165g7-32gb-ram-1tb-ssd-windows-11-14-1-fhd-tasinabilir-bilgisayar-p-HBCV000004YF4A",
+					"fiyat": "25.773,02 TL",
+					"fotolink": "https://productimages.hepsiburada.net/s/274/550/110000260906966.jpg"
+				},
+				{
+					"website": "trendyol",
+					"link": "https://www.trendyol.com/monster/huma-h4-v4-1-1-intel-core-i7-1165g7-32gb-ram-1tb-ssd-windows-11-14-1-fhd-p-97410616?boutiqueId=613344&merchantId=105286",
+					"fiyat": "25.249 TL",
+					"fotolink": "https://cdn.dsmcdn.com/mnresize/128/192/ty518/product/media/images/20220826/13/165989724/162162342/1/1_org_zoom.jpg"
+				}
+			]
+		},
+		"abra a5 v19.1.1": {
+			"amount": 2,
+			"from": [
+				{
+					"website": "trendyol",
+					"link": "https://www.trendyol.com/monster/abra-a5-v19-1-1-intel-core-i5-12500h-8-gb-ram-500gb-ssd-4gb-gtx1650-windows-11-15-6-fhd-144hz-p-344041020?boutiqueId=613344&merchantId=105286",
+					"fiyat": "18.909 TL",
+					"fotolink": "https://cdn.dsmcdn.com/mnresize/128/192/ty513/product/media/images/20220822/12/163813490/549295433/1/1_org_zoom.jpg"
+				},
+				{
+					"website": "n11",
+					"link": "https://www.n11.com/urun/monster-abra-a5-v1911-i5-12500h-8-gb-500-gb-ssd-4-gb-gtx1650-144hz-156-w11h-dizustu-bilgisayar-18715689?magaza=monster",
+					"fiyat": "18.549,99 TL",
+					"fotolink": "https://n11scdn.akamaized.net/a1/602_857/16/58/44/18/IMG-1475170770920090342.png"
+				}
+			]
+		}
+	},
+	"apple": {
+		"macbook air": {
+			"amount": 2,
+			"ozellikler": {
+				"isletim_sistemi": "macOS",
+				"islemci": "Apple M1",
+				"islemci_modeli": "Apple M1",
+				"islemci_hizi": "Belirtilmemiş",
+				"ram": "8 GB",
+				"disk_boyutu": "256 GB",
+				"disk_turu": "SSD",
+				"ekran_boyutu": "13 inç",
+				"ekran_karti": "M1 7 Çekirdekli",
+				"puan": "4,9",
+				"site": "Hepsiburada",
+				"link": "https://www.hepsiburada.com//apple-macbook-air-m1-cip-8gb-256gb-ssd-macos-13-qhd-tasinabilir-bilgisayar-uzay-grisi-mgn63tu-a-p-HBV0000130VND"
+			},
+			"from": [
+				{
+					"website": "list",
+					"link": "https://www.hepsiburada.com//apple-macbook-air-m1-cip-8gb-256gb-ssd-macos-13-qhd-tasinabilir-bilgisayar-uzay-grisi-mgn63tu-a-p-HBV0000130VND",
+					"fiyat": "23.499,00 TL",
+					"fotolink": "https://productimages.hepsiburada.net/s/49/550/10983949860914.jpg"
+				},
+				{
+					"website": "trendyol",
+					"link": "https://www.trendyol.com/apple/macbook-air-m2-8c-cpu-8c-gpu-16gb-256-gb-ssd-13-6-uzay-grisi-p-363972274?boutiqueId=61&merchantId=624588",
+					"fiyat": "32.299 TL",
+					"fotolink": "https://cdn.dsmcdn.com/mnresize/128/192/ty554/product/media/images/20221006/3/186817892/590191323/1/1_org_zoom.jpg"
+				}
+			]
+		},
+		"macbook": {
+			"amount": 2,
+			"from": [
+				{
+					"website": "hepsiburada",
+					"link": "https://www.hepsiburada.com//apple-macbook-m1-pro-cip-16gb-512gb-ssd-macos-14-qhd-tasinabilir-bilgisayar-gumus-mkgr3tu-a-p-HBCV00000U6XEP",
+					"fiyat": "48.999,00 TL",
+					"fotolink": "https://productimages.hepsiburada.net/s/131/550/110000081537709.jpg"
+				},
+				{
+					"website": "trendyol",
+					"link": "https://www.trendyol.com/apple/macbook-m1-pro-10c-cpu-16c-gpu-16gb-512gb-ssd-macos-16-qhd-gumus-laptop-apple-turkiye-garantili-p-179259323?boutiqueId=61&merchantId=624588",
+					"fiyat": "55.999 TL",
+					"fotolink": "https://cdn.dsmcdn.com/mnresize/128/192/ty360/product/media/images/20220315/17/70305207/292549823/1/1_org_zoom.jpg"
+				}
+			]
+		},
+		"macbook pro": {
+			"amount": 2,
+			"from": [
+				{
+					"website": "trendyol",
+					"link": "https://www.trendyol.com/apple/macbook-pro-14-m1-pro-8c-cpu-14c-gpu-16-gb-512gb-ssd-gumus-p-179224615?boutiqueId=613344&merchantId=107870",
+					"fiyat": "51.999 TL",
+					"fotolink": "https://cdn.dsmcdn.com/mnresize/128/192/ty455/product/media/images/20220614/9/125455730/292483852/1/1_org_zoom.jpg"
+				},
+				{
+					"website": "vatan",
+					"link": "https://www.vatanbilgisayar.com//macbook-pro-touch-bar-mydc2tu-a-m1-8gb-512gbssd-retina-13-int-space-grey.html",
+					"fiyat": "26.999",
+					"fotolink": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/114764_large.jpg"
+				}
+			]
+		}
+	},
+	"hometech": {
+		"alfa 590s": {
+			"amount": 2,
+			"from": [
+				{
+					"website": "hepsiburada",
+					"link": "https://www.hepsiburada.com//hometech-alfa-590s-intel-core-i5-5257u-8gb-256-gb-ssd-windows-10-home-15-6-fhd-tasinabilir-bilgisayar-p-HBV00001779GH",
+					"fiyat": "8.199,00 TL",
+					"fotolink": "https://productimages.hepsiburada.net/s/54/550/11159140728882.jpg"
+				},
+				{
+					"website": "n11",
+					"link": "https://www.n11.com/urun/hometech-alfa-590s-i5-5257-8-gb-ram-256-gb-ssd-156-w10h-fhd-dizustu-bilgisayar-1712832?magaza=teknoryabilisim",
+					"fiyat": "8.206,45 TL",
+					"fotolink": "https://n11scdn.akamaized.net/a1/602_857/01/80/08/05/93316978.png"
+				}
+			]
+		},
+		"alfa 430c": {
+			"amount": 2,
+			"from": [
+				{
+					"website": "trendyol",
+					"link": "https://www.trendyol.com/hometech/alfa-430c-celeron-n4020-4gb-128gb-emmc-14inc-w10-p-358056693?boutiqueId=61&merchantId=624588",
+					"fiyat": "3.699 TL",
+					"fotolink": "https://cdn.dsmcdn.com/mnresize/128/192/ty542/product/media/images/20220927/11/180265783/580514377/1/1_org_zoom.jpg"
+				},
+				{
+					"website": "vatan",
+					"link": "https://www.vatanbilgisayar.com//hometech-alfa-430c-celeron-n4020-4gb-128gb-emmc-14inc-w10.html",
+					"fiyat": "3.699",
+					"fotolink": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/hometech/thumb/135009-1-1_large.jpg"
+				}
+			]
+		}
+	}
+}
