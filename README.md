@@ -12,3 +12,7 @@ A web application that allows users to filter and sort laptops based on their fe
 ## Usage
 
 The application allows users to filter laptops by brand, operating system, processor, RAM, storage, and screen size. Users can also sort the laptops by price, rating, and processor speed.
+
+## Screenshots
+![alt text](https://github.com/frknksp/ecommerce-price-scrapper/blob/main/exampleimgs/deneyselsonuc2.png?raw=true)
+![alt text](https://github.com/frknksp/ecommerce-price-scrapper/blob/main/exampleimgs/deneyselsonuc.png?raw=true)
